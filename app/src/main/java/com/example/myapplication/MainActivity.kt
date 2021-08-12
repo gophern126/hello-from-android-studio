@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
 		super.onCreate(savedInstanceState)
 		setContentView(R.layout.activity_main)
 		//edit from Gophern （主人）
+
+		//edit from gophern126 （客人）
 	}
 }
